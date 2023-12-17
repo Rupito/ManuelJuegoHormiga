@@ -1,0 +1,1308 @@
+fileFormatVersion: 2
+guid: fd862b66a6afdf349ad436d846fc6041
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2902081669217943306
+    second: MariposasVuelos_0
+  - first:
+      213: 4020817591884455663
+    second: MariposasVuelos_1
+  - first:
+      213: 217632315309193298
+    second: MariposasVuelos_2
+  - first:
+      213: -8411383867568005013
+    second: MariposasVuelos_3
+  - first:
+      213: -4984368160744318882
+    second: MariposasVuelos_4
+  - first:
+      213: -654146377452023160
+    second: MariposasVuelos_5
+  - first:
+      213: 5644712070723510324
+    second: MariposasVuelos_6
+  - first:
+      213: -8796601138690953362
+    second: MariposasVuelos_7
+  - first:
+      213: -4533466293868627633
+    second: MariposasVuelos_8
+  - first:
+      213: -1708678247374757363
+    second: MariposasVuelos_9
+  - first:
+      213: -8025080293979607199
+    second: MariposasVuelos_10
+  - first:
+      213: 255475851743925297
+    second: MariposasVuelos_11
+  - first:
+      213: 5436030321516112197
+    second: MariposasVuelos_12
+  - first:
+      213: -2820910786341622878
+    second: MariposasVuelos_13
+  - first:
+      213: 1734054836060366402
+    second: MariposasVuelos_14
+  - first:
+      213: -74719464042718226
+    second: MariposasVuelos_15
+  - first:
+      213: 3391083603068007066
+    second: MariposasVuelos_16
+  - first:
+      213: 3084013290099220459
+    second: MariposasVuelos_17
+  - first:
+      213: 2909998574815572607
+    second: MariposasVuelos_18
+  - first:
+      213: 2452021698831468617
+    second: MariposasVuelos_19
+  - first:
+      213: -5232242878332265589
+    second: MariposasVuelos_20
+  - first:
+      213: 3362129837067161698
+    second: MariposasVuelos_21
+  - first:
+      213: -2038372521692946220
+    second: MariposasVuelos_22
+  - first:
+      213: 3449579125279705892
+    second: MariposasVuelos_23
+  - first:
+      213: -1247384194816194397
+    second: MariposasVuelos_24
+  - first:
+      213: -3714747828086311331
+    second: MariposasVuelos_25
+  - first:
+      213: -3134535021820025784
+    second: MariposasVuelos_26
+  - first:
+      213: 1170909450562642361
+    second: MariposasVuelos_27
+  - first:
+      213: -6511600854500569750
+    second: MariposasVuelos_28
+  - first:
+      213: 6738495669981528261
+    second: MariposasVuelos_29
+  - first:
+      213: 1981886125684713821
+    second: MariposasVuelos_30
+  - first:
+      213: 8517284995364602845
+    second: MariposasVuelos_31
+  - first:
+      213: -8626870462942219868
+    second: MariposasVuelos_32
+  - first:
+      213: -4227733962312637991
+    second: MariposasVuelos_33
+  - first:
+      213: 3532364634892235446
+    second: MariposasVuelos_34
+  - first:
+      213: 5930919366057994359
+    second: MariposasVuelos_35
+  - first:
+      213: -1922163742362103895
+    second: MariposasVuelos_36
+  - first:
+      213: 4214303423812734683
+    second: MariposasVuelos_37
+  - first:
+      213: 1800100555624954407
+    second: MariposasVuelos_38
+  - first:
+      213: 5190908236885594268
+    second: MariposasVuelos_39
+  - first:
+      213: -4407824921762314571
+    second: MariposasVuelos_40
+  - first:
+      213: -7283846690240286847
+    second: MariposasVuelos_41
+  - first:
+      213: -6509657665659205754
+    second: MariposasVuelos_42
+  - first:
+      213: -8557021103017554877
+    second: MariposasVuelos_43
+  - first:
+      213: -3115575747345778918
+    second: MariposasVuelos_44
+  - first:
+      213: 9119122426960978858
+    second: MariposasVuelos_45
+  - first:
+      213: -2103058269253669909
+    second: MariposasVuelos_46
+  - first:
+      213: -1724547872625414310
+    second: MariposasVuelos_47
+  - first:
+      213: 7252827352679893768
+    second: MariposasVuelos_48
+  - first:
+      213: 8330695657736676171
+    second: MariposasVuelos_49
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MariposasVuelos_0
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 774
+        width: 76
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0f78eaf6e3464820800000000000000
+      internalID: 2902081669217943306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MariposasVuelos_1
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 806
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fee1aeeeb40dcc730800000000000000
+      internalID: 4020817591884455663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MariposasVuelos_2
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 812
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25876ad007f250300800000000000000
+      internalID: 217632315309193298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MariposasVuelos_3
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 767
+        width: 101
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b60682810f2c44b80800000000000000
+      internalID: -8411383867568005013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MariposasVuelos_4
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 757
+        width: 80
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e58511de097f3dab0800000000000000
+      internalID: -4984368160744318882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MariposasVuelos_5
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 746
+        width: 72
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8821dd4e5510ce6f0800000000000000
+      internalID: -654146377452023160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MariposasVuelos_6
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 745
+        width: 107
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 430a5daa8bb065e40800000000000000
+      internalID: 5644712070723510324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MariposasVuelos_7
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 800
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6f6789eed13ce580800000000000000
+      internalID: -8796601138690953362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MariposasVuelos_8
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 767
+        width: 108
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f49f0c0dc64e511c0800000000000000
+      internalID: -4533466293868627633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MariposasVuelos_9
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 796
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d026acddf2e8948e0800000000000000
+      internalID: -1708678247374757363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MariposasVuelos_10
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 770
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16fab57cdff21a090800000000000000
+      internalID: -8025080293979607199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MariposasVuelos_11
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 781
+        width: 9
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13413effee1ab8300800000000000000
+      internalID: 255475851743925297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MariposasVuelos_12
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 773
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 549683ea6c8a07b40800000000000000
+      internalID: 5436030321516112197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MariposasVuelos_13
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 771
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ab2a0de59c1ad8d0800000000000000
+      internalID: -2820910786341622878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MariposasVuelos_14
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 687
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2462d6c9fa9901810800000000000000
+      internalID: 1734054836060366402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MariposasVuelos_15
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 675
+        width: 105
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeb1de71b0b86fef0800000000000000
+      internalID: -74719464042718226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MariposasVuelos_16
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 675
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a92358cf19c8f0f20800000000000000
+      internalID: 3391083603068007066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MariposasVuelos_17
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 664
+        width: 105
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bef92fe5fbd9cca20800000000000000
+      internalID: 3084013290099220459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MariposasVuelos_18
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 665
+        width: 72
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7276c43944626820800000000000000
+      internalID: 2909998574815572607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MariposasVuelos_19
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 664
+        width: 78
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94846646eb4570220800000000000000
+      internalID: 2452021698831468617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MariposasVuelos_20
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 663
+        width: 101
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8b1072e2d65367b0800000000000000
+      internalID: -5232242878332265589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MariposasVuelos_21
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 659
+        width: 116
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2605123064fa8ae20800000000000000
+      internalID: 3362129837067161698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MariposasVuelos_22
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 673
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d02394cdfe36b3e0800000000000000
+      internalID: -2038372521692946220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MariposasVuelos_23
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 665
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42b46e210fd5fdf20800000000000000
+      internalID: 3449579125279705892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MariposasVuelos_24
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 563
+        width: 84
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a84b890fa660bee0800000000000000
+      internalID: -1247384194816194397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MariposasVuelos_25
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 570
+        width: 77
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d56f2cc2880927cc0800000000000000
+      internalID: -3714747828086311331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MariposasVuelos_26
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 561
+        width: 49
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84465605105ef74d0800000000000000
+      internalID: -3134535021820025784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MariposasVuelos_27
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 558
+        width: 47
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b12fe801f7ef3010800000000000000
+      internalID: 1170909450562642361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MariposasVuelos_28
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 553
+        width: 84
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6d0d54d58522a5a0800000000000000
+      internalID: -6511600854500569750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MariposasVuelos_29
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 562
+        width: 119
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c0c1c91c12f38d50800000000000000
+      internalID: 6738495669981528261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MariposasVuelos_30
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 556
+        width: 123
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5966ba4ee2118b10800000000000000
+      internalID: 1981886125684713821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MariposasVuelos_31
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 440
+        width: 135
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd3c877a399733670800000000000000
+      internalID: 8517284995364602845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MariposasVuelos_32
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 457
+        width: 132
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a1f4056503374880800000000000000
+      internalID: -8626870462942219868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MariposasVuelos_33
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 467
+        width: 101
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d1208b5c521455c0800000000000000
+      internalID: -4227733962312637991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MariposasVuelos_34
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 456
+        width: 105
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b277ef8bea750130800000000000000
+      internalID: 3532364634892235446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MariposasVuelos_35
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 453
+        width: 134
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7782f557dbbde4250800000000000000
+      internalID: 5930919366057994359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MariposasVuelos_36
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 457
+        width: 114
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9af0f58a24a1355e0800000000000000
+      internalID: -1922163742362103895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MariposasVuelos_37
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 331
+        width: 149
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bde0218b2a63c7a30800000000000000
+      internalID: 4214303423812734683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MariposasVuelos_38
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 346
+        width: 96
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72a32020bed3bf810800000000000000
+      internalID: 1800100555624954407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MariposasVuelos_39
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 335
+        width: 56
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c901731f98fc90840800000000000000
+      internalID: 5190908236885594268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MariposasVuelos_40
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 332
+        width: 48
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b64e3a569244d2c0800000000000000
+      internalID: -4407824921762314571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MariposasVuelos_41
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 316
+        width: 127
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18fa2d5d6049aea90800000000000000
+      internalID: -7283846690240286847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MariposasVuelos_42
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 340
+        width: 129
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6870cfcb7dc09a5a0800000000000000
+      internalID: -6509657665659205754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MariposasVuelos_43
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 354
+        width: 91
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34c0e13d4aa5f3980800000000000000
+      internalID: -8557021103017554877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MariposasVuelos_44
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 173
+        width: 149
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a17f1a46d5043c4d0800000000000000
+      internalID: -3115575747345778918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MariposasVuelos_45
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 199
+        width: 143
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa3ae4a3881ad8e70800000000000000
+      internalID: 9119122426960978858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MariposasVuelos_46
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 205
+        width: 106
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bebef2785af60d2e0800000000000000
+      internalID: -2103058269253669909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MariposasVuelos_47
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 210
+        width: 98
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5fa10ec8dc2118e0800000000000000
+      internalID: -1724547872625414310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MariposasVuelos_48
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 200
+        width: 100
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80bc8b5dc0837a460800000000000000
+      internalID: 7252827352679893768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MariposasVuelos_49
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 204
+        width: 104
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b43a84310939c9370800000000000000
+      internalID: 8330695657736676171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
